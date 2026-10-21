@@ -2,7 +2,8 @@
 ### Boutique Inventory Management & Business Analytics
 
 VastraVault is a web-based inventory management and business analytics prototype designed for Indian boutiques and small fashion retailers. It provides a centralized interface for managing clothing products, exploring inventory, viewing sales analytics, and handling customer and order information.
-
+## Website
+https://vastravault.netlify.app/
 ## Features
 
 - **Inventory Management:** Browse, search, and filter clothing products.
